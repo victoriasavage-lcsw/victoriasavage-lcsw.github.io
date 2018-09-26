@@ -1,0 +1,42 @@
+body {
+  background-color:#778899;
+}
+
+.jumbotron {
+  background-color: #778899;
+  height:575px;
+  background-size: cover;
+}
+
+.jumbotron h1 {
+  color: #F9F8FE;
+  font-family: 'Helvetica';
+  font-weight:bold;
+  font-size:54px;
+  padding-top: 30px;
+}
+
+.jumbotron h3 {
+  color: #F9F8FE;
+  font-family: 'Helvetica';
+  font-weight:bold;
+  font-size:40px;
+}
+
+.jumbotron a {
+  color: #F9F8FE;
+  font-family: 'Helvetica';
+  font-weight:bold;
+  font-size:40px;  
+}
+
+.jumbotron p {
+  color: #F9F8FE;
+  font-family: 'Helvetica';
+  font-weight: bold;
+  font-size: 32px;
+}
+
+img {
+  border: 1px solid #F9F8FE;
+}

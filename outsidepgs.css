@@ -1,0 +1,30 @@
+body {
+background-color: #778899;
+}
+
+.nav ul {
+  display: inline-block;
+}
+
+
+.nav a {
+  font-family: 'Helvetica';
+  color: #F9F8FE;
+  font-size: 20px;
+}
+
+.page_stuff {
+  background-color: #778899;
+}
+
+.page_stuff h1 {
+  font-family: 'Helvetica';
+  font-size: 45px;
+  color: #F9F8FE;
+}
+
+.page_stuff p {
+  font-family: 'Helvetica';
+  color: #F9F8FE;
+  font-size: 25px;
+}
